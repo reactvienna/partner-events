@@ -1,6 +1,6 @@
-# Events
+List of events from partners with discount codes. In case you are interested about ReasonVienna meetups please checkout https://www.meetup.com/Reason-Vienna
 
-This contains a list of events from partners with discount codes. In case you are interested about ReactVienna meetups please checkout https://www.meetup.com/ReactVienna
+## Partner Events
 
 #### ReactJS Day (2017-10-06) 
 
