@@ -13,3 +13,8 @@ Discount Code: ReactiveMissYou (15%)
 Location: Paris, France<br />
 Link: https://dotjs2017.eventbrite.com?discount=REACTVIENNA<br />
 Discount Code: REACTVIENNA (20%)
+
+#### LambdUp (2017-12-06) 
+
+Location: Prague, Czech Rep.<br />
+Link: https://www.lambdup.io/<br />
