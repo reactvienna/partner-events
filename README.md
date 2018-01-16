@@ -2,6 +2,12 @@ List of events from partners with discount codes. In case you are interested abo
 
 ## Partner Events
 
+#### React Fest (2018-03-09) 
+
+Location: London, United Kingdom<br />
+Link: https://reactfest.com/<br />
+Discount Code: REACTVIENNA20 (20%)
+
 ## Past Events
 
 #### Reactive (2017-10-25 - 2017-10-27) 
