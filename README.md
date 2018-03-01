@@ -2,6 +2,12 @@ List of events from partners with discount codes. In case you are interested abo
 
 ## Partner Events
 
+#### You Gotta Love Frontend (2018-05-24 - 2018-05-25)
+
+Location: Kyiv, Ukraine<br />
+Link: http://yglf.com.ua/<br />
+Discount Code: YGLFLovesReactVienna (15%)
+
 #### React Fest (2018-03-09) 
 
 Location: London, United Kingdom<br />
