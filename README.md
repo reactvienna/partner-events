@@ -2,19 +2,25 @@ List of events from partners with discount codes. In case you are interested abo
 
 ## Partner Events
 
+#### Sphere.it (2018-04-15 - 2018-04-17)
+
+Location: Krakow, Poland<br />
+Link: https://sphere.it/<br />
+Discount Code: sphereit-2018-meetup-com-10perc
+
 #### You Gotta Love Frontend (2018-05-24 - 2018-05-25)
 
 Location: Kyiv, Ukraine<br />
 Link: http://yglf.com.ua/<br />
 Discount Code: YGLFLovesReactVienna (15%)
 
+## Past Events
+
 #### React Fest (2018-03-09) 
 
 Location: London, United Kingdom<br />
 Link: https://reactfest.com/<br />
 Discount Code: REACTVIENNA20 (20%)
-
-## Past Events
 
 #### Reactive (2017-10-25 - 2017-10-27) 
 
