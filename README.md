@@ -14,12 +14,6 @@ Discount Code: YGLFLovesReactVienna (15%)
 Location: Vienna, Austria<br />
 Link: https://www.reason-conf.com<br />
 
-#### Sphere.it (2018-04-15 - 2018-04-17)
-
-Location: Krakow, Poland<br />
-Link: https://sphere.it/<br />
-Discount Code: sphereit-2018-meetup-com-10perc
-
 ## Past Events
 
 #### React Fest (2018-03-09) 
