@@ -7,19 +7,18 @@ List of events from partners with discount codes. In case you are interested abo
 Location: Prague, Czech Rep.<br />
 Link: https://www.lambdup.io/<br />
 
+## Past Events
+
 #### You Gotta Love Frontend (2018-05-24 - 2018-05-25)
 
 Location: Kyiv, Ukraine<br />
 Link: http://yglf.com.ua/<br />
 Discount Code: YGLFLovesReactVienna (15%)
 
-
 #### ReasonConf (2018-05-11 - 2018-05-13)
 
 Location: Vienna, Austria<br />
 Link: https://www.reason-conf.com<br />
-
-## Past Events
 
 #### React Fest (2018-03-09) 
 
