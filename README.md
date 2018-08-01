@@ -2,6 +2,11 @@ List of events from partners with discount codes. In case you are interested abo
 
 ## Partner Events
 
+#### LambdUp (2018-09-13) 
+
+Location: Prague, Czech Rep.<br />
+Link: https://www.lambdup.io/<br />
+
 #### You Gotta Love Frontend (2018-05-24 - 2018-05-25)
 
 Location: Kyiv, Ukraine<br />
