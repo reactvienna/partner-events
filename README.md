@@ -7,6 +7,11 @@ List of events from partners with discount codes. In case you are interested abo
 Location: Prague, Czech Rep.<br />
 Link: https://www.lambdup.io/<br />
 
+#### CSS-Minsk-JS (2018-09-21 - 2018-09-22) 
+
+Location: Minsk, Belarus<br />
+Link: https://css-minsk-js.by/<br />
+
 ## Past Events
 
 #### You Gotta Love Frontend (2018-05-24 - 2018-05-25)
