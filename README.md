@@ -2,6 +2,14 @@ List of events from partners with discount codes. In case you are interested abo
 
 ## Partner Events
 
+#### CityJS London (2024-04-03 - 2024-04-06) 
+
+Location: London, United Kingdom<br />
+Link: https://london.cityjs.org<br />
+Discount Code: REACTVIENNA (Buy discount tickets [here](https://ti.to/cityjsconf-london/cityjs-london-2024/discount/REACTVIENNA))
+
+## Past Events
+
 #### LambdUp (2018-09-13) 
 
 Location: Prague, Czech Rep.<br />
@@ -11,8 +19,6 @@ Link: https://www.lambdup.io/<br />
 
 Location: Minsk, Belarus<br />
 Link: https://css-minsk-js.by/<br />
-
-## Past Events
 
 #### You Gotta Love Frontend (2018-05-24 - 2018-05-25)
 
