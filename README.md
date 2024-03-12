@@ -8,10 +8,12 @@ Location: London, United Kingdom<br />
 Link: https://london.cityjs.org<br />
 Discount Code: REACTVIENNA (Buy discount tickets [here](https://ti.to/cityjsconf-london/cityjs-london-2024/discount/REACTVIENNA))
 
-#### Epic Web Conf (2024-04-11)
+
+#### Epic Web Conf (2024-04-10 - 2024-04-11)
 
 Location: Salt Lake City, Utah, US<br />
-Link (with discount): https://ti.to/epicweb/epicweb-conf-2024/discount/meetup<br />
+Buy tickets (with discount): https://ti.to/epicweb/epicweb-conf-2024/discount/meetup<br />
+Free live stream: https://www.youtube.com/watch?v=Q0fwzlwTLWk<br />
 
 ## Past Events
 
